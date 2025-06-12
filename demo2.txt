@@ -1,0 +1,2 @@
+Artificial Intelligence simulates human intelligence through machines.
+It allows systems to learn and take decisions.
